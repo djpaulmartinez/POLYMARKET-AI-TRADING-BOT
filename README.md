@@ -1,4 +1,4 @@
-# 🤖 AI Trading Bot | Polymarket Trading Bots Suite
+# AI Trading Bot | Polymarket Trading Bots Suite
 
 > **Professional AI trading bot suite for Polymarket prediction markets. Advanced AI-powered trading bots featuring Synth AI integration, automated arbitrage detection, copy trading, and market making. Built with Rust for high-performance algorithmic trading.**
 
